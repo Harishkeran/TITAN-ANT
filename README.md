@@ -12,7 +12,8 @@ Installation & Setup:-
 
 Prerequisites:
 
-Python 3.6+
+Python 3.6+ 
+
 pip
 
 Step 1: Clone the Repository
