@@ -16,8 +16,7 @@ Python 3.6+
 pip
 
 Step 1: Clone the Repository
-git clone https://github.com/harishkeran/bio-inspired-navigation.git
-cd bio-inspired-navigation
+git clone https://github.com/Harishkeran/TITAN-ANT
 
 Step 2: Install Dependencies
 This simulation requires pybullet for physics and numpy for vector calculations.
