@@ -1,5 +1,5 @@
 Bio-Inspired Ant Navigation: The "Titan-Ant" Model
-Introduction-
+Introduction:-
 This project demonstrates a decentralized, computation-light navigation architecture for autonomous warehouse robots. Drawing inspiration from the Cataglyphis desert ant, the simulation proves that complex spatial navigation can be achieved without heavy SLAM (Simultaneous Localization and Mapping) or centralized servers.
 The "Titan-Ant" model combines Path Integration (Vector-Based Homing) with reactive Tactile Obstacle Negotiation, allowing agents to navigate cluttered, dynamic environments using minimal memory. Additionally, it implements Swarm Chirality rules to enable scalable multi-agent collision avoidance.
 Features:-
